@@ -1,4 +1,12 @@
----
+<!--
+ * @Author: Abby Xu
+ * @Date: 2023-11-27 21:12:13
+ * @LastEditors: Abby Xu
+ * @LastEditTime: 2023-11-27 22:24:49
+ * @FilePath: /abbyxr/content/publication/preprint/index.md
+ * Copyright (c) 2023 by abby.xu915@gmail.com, All Rights Reserved. 
+-->
+<!-- ---
 title: "An example preprint / working paper"
 authors:
 - admin
@@ -58,7 +66,7 @@ projects:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: example -->
 ---
 
 {{% callout note %}}

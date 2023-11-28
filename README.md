@@ -1,7 +1,15 @@
-# [Hugo Academic CV Theme](https://github.com/HugoBlox/theme-academic-cv)
+<!--
+ * @Author: Abby Xu
+ * @Date: 2023-11-27 21:12:13
+ * @LastEditors: Abby Xu
+ * @LastEditTime: 2023-11-27 21:40:15
+ * @FilePath: /abbyxr/README.md
+ * Copyright (c) 2023 by abby.xu915@gmail.com, All Rights Reserved. 
+-->
 
-[![Screenshot](./preview.png)](https://hugoblox.com/templates/)
+Personal academic website, template from: [Hugo Academic CV Theme](https://github.com/HugoBlox/theme-academic-cv)
 
+<!--
 The Hugo **Academic Resumé Template** empowers you to easily create your job-winning online resumé, showcase your academic publications, and create online courses or knowledge bases to grow your audience.
 
 [![Get Started](https://img.shields.io/badge/-Get%20started-ff4655?style=for-the-badge)](https://hugoblox.com/templates/)
@@ -38,13 +46,10 @@ We're an open source movement that depends on your support to stay online and th
 
 - [Unsplash](https://unsplash.com)
 
+
 ## Latest news
+-->
 
 <!--START_SECTION:news-->
 
-- [Easily make an academic CV website to get more cites and grow your audience 🚀](https://hugoblox.com/blog/easily-make-academic-website/)
-- [What&#39;s new in v5.2?](https://hugoblox.com/blog/whats-new-in-v5.2/)
-- [What&#39;s new in v5.1?](https://hugoblox.com/blog/whats-new-in-v5.1/)
-- [Version 5.0 (February 2021)](https://hugoblox.com/blog/version-5.0-february-2021/)
-- [Version 5.0 Beta 3 (February 2021)](https://hugoblox.com/blog/version-5.0-beta-3-february-2021/)
-<!--END_SECTION:news-->
+END_SECTION:news

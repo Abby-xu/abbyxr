@@ -1,5 +1,5 @@
 ---
-title: 'An example conference paper'
+title: 'Preclinical Stages of Alzheimer's Disease Classification by a Rs-fMRI Study'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -13,8 +13,8 @@ author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
-doi: ''
+date: '2018-11-01T00:00:00Z'
+doi: '10.1109/CISP-BMEI.2018.8633094'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
